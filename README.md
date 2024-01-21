@@ -2,10 +2,6 @@
 
 LA TABLA DE MULTIPLICAR
 
-En la entrega, adjunta la URL a tu repositorio.
-
-Crea un nuevo proyecto, copia y pega el siguiente código en el fichero Main.kt:
-
 /**
  * Solicita un número entero en un rango.
  *
@@ -47,10 +43,10 @@ Ejemplo de ejecución del programa Tablas de Multiplicar...
 
 Si se genera un error, debe controlarse... por ejemplo:
 
-Numero no valido
+![Imagen 1](https://i.imgur.com/5OnWfqB.png)
 
 O si se introduce una respuesta que no se entiende:
 
-Error en respuesta
+![Imagen 1](https://i.imgur.com/hXj7580.png)
 
 En cualquier caso, después de mostrar el error debe permanecer esperando a que pulsemos la tecla ENTER para continuar...

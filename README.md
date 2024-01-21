@@ -41,7 +41,7 @@ En nuestro caso, debemos crear un array de 10 posiciones con el contenido que pu
 
 Esto es lo que debe mostrar la aplicación:
 
-![Imagen 1](https://educacionadistancia.juntadeandalucia.es/centros/cadiz/pluginfile.php/995537/mod_assign/intro/image.png](https://i.imgur.com/QrOYDbU.png)
+[![Imagen 1](https://educacionadistancia.juntadeandalucia.es/centros/cadiz/pluginfile.php/995537/mod_assign/intro/image.png](https://i.imgur.com/QrOYDbU.png)](https://i.imgur.com/QrOYDbU.png)
 
 Ejemplo de ejecución del programa Tablas de Multiplicar...
 

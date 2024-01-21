@@ -1,4 +1,4 @@
-# 1dawb-tabla-multiplicar
+# Tablas de multiplicar
 
 LA TABLA DE MULTIPLICAR
 

@@ -1,7 +1,7 @@
 # Tablas de multiplicar
 
 LA TABLA DE MULTIPLICAR
-
+```
 /**
  * Solicita un número entero en un rango.
  *
@@ -25,6 +25,8 @@ fun main() {
     //TODO: Solicitar la introducción de un número entre 1 y 100 y mostrar su table de multiplicar...
     //Hasta que se responda negativamente a la pregunta "¿Desea generar otra tabla de multiplicación? (s/n)"
 }
+```
+
 Para crear la tabla de multiplicar utiliza el constructor Array() cómo se indica en los apuntes...
 
 https://revilofe.github.io/section1/u04/teoria/PROG-U4.1.-kotlin/#arrays
